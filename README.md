@@ -34,7 +34,7 @@ Functions
 Basic terminal interaction
 
  Author
-✨ Created by Your AASTHA
+✨ Created by AASTHA
 
 📘 Learning C++ and GitHub!
 
