@@ -14,6 +14,14 @@ This is a simple command-line C++ program that converts temperatures between **C
 ---
 
 ## Sample Input/Output
+Temperature Converter
+Available scales: Celsius, Fahrenheit, Kelvin
+
+Enter the temperature value: 100
+Convert from (Celsius/Fahrenheit/Kelvin): Celsius
+Convert to (Celsius/Fahrenheit/Kelvin): Fahrenheit
+
+100 degrees celsius = 212.00 degrees fahrenheit
 
 
 ---
